@@ -6,7 +6,7 @@ import { head, nav, markdown, sidebar } from './config/index'
 export default {
   base: '/vitepress-starter/',
   title: '开发笔记',
-  description: '记录开发时遇到的问题',
+  description: '记录开发时遇到的问题1',
   head,
   markdown,
   appearance: true, // 是否显示dark | light 模式切换如果设置false只有light模式
