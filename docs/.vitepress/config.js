@@ -4,7 +4,7 @@ import { head, nav, markdown, sidebar } from './config/index'
  * @type {import('vitepress').UserConfig}
  */
 export default {
-  base: '/vitepress-starter',
+  base: '/vitepress-starter/',
   title: '开发笔记',
   description: '记录开发时遇到的问题',
   head,
