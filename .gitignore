@@ -1,0 +1,9 @@
+node_modules
+/package-lock.json
+# /yarn.lock
+
+particles.json
+docs/.vitepress/dist
+es
+.DS_Store
+ 
